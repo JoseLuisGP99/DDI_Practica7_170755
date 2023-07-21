@@ -16,6 +16,6 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre | Practica 7 Hora actual del dispositivo|
-| Descripción  |Obtenerla hora a través del sistema del wearable y reflejarla.|
+| Descripción  |Obtener la hora a través del sistema del wearable y reflejarla.|
 |  Fecha de Carga | 07/06/23  |
 
